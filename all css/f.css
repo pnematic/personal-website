@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(darkblue,lightblue,skyblue);
+text-align: center;
+    background-size: 40%
+}
+
+h1,p{
+    color: ghostwhite;
+    text-align: center;}
+label{
+    color: white;
+
+    padding-right:480px;
+}
+.text1{
+    padding:15px 70px;
+    width: 29%;
+    
+    
+    
+}
+textarea{
+    width: 40%;
+    padding: 40px 1px;
+    
+    
+}
+.button{
+    background-color: dodgerblue;
+    font-size: 30px;
+    
+    width: 40.5%;
+        color:whitesmoke;
+    padding: 5px 0px;
+        
+}
+.dropdown{
+    padding: 25px;
+    position: relative;
+    display: inline-block;
+    font-size: bold;
+}
+.dropcount{
+     display: none;
+  position: absolute;
+  background-color: darkred;
+  min-width: 160px;
+  
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdown:hover .dropcount {
+    display: block;
+}

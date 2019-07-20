@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+ 
+    text-align: center
+        
+}
+img{
+
+    margin-right: 75px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+   text-decoration-line: underline ;  
+   text-decoration-color: crimson 
+}
+h3{
+    text-align: center
+    text-decoration-line: underline;
+    margin-left: auto
+}
+
+.p{
+    padding-left: 30px;
+}   
+ul li{
+    list-style-type: none;
+}

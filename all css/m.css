@@ -1,0 +1,81 @@
+
+body{
+    background-image: linear-gradient( blue  ,white,blue);
+    border-bottom-color: brown;
+}
+.navbar ul {
+    list-style-type: none;
+    margin:0px;
+     padding-right: 430px;
+    padding-bottom: 5px;
+}
+.navbar li{
+     float: right;
+   
+    
+}
+.navbar li a{
+   display:block;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+   
+}
+li a:hover {
+  background-color: #111;
+}
+li a.active{
+    background-color: black;
+
+}
+.right{
+    float: right;
+    padding-right: 460px;
+    padding-top: 18px;
+}
+.love{
+    background-color: yellow;
+    padding :6px;
+    border-radius: 50%;
+    margin: 4px;
+    
+}
+.left{
+    padding-left: 200px;
+    padding-bottom: 5px;
+}
+h2{
+    color: white;
+    font-size: 34px;
+}
+h1{
+    padding-left: 190px;
+    font-size: 20px;
+    color: white;
+}
+h3{
+    color: yellow;
+    font-style: oblique;
+    font-size: 29px;
+}
+.text{
+    width: 23.5%;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button{
+    padding: 10px;
+    width: 25.5%;
+    background-color: yellow;
+    border-radius: 5px;
+}
+.new{
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 6px;
+    margin: 3px;
+}
+.pag{
+    padding-left: 190px;
+}
