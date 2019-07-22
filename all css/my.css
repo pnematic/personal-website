@@ -4,6 +4,30 @@ body{
     text-align: center
         
 }
+a {
+    text-decoration: none;
+}
+.navbar{
+    list-style-type: none;
+    background-color: #282828;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin-top: 0;
+}
+.navbar li{
+    padding-left: 15px;
+    color: #fff;
+}
+
+.navbar li a {
+    padding: 10px;
+    color: #fff;
+}
+
+.navbar a.active, .navbar a:hover{
+    color: #EA8A95;
+}
 img{
 
     margin-right: 75px;
