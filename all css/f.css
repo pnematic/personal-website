@@ -3,6 +3,11 @@ body{
 text-align: center;
     background-size: 40%
 }
+@media screen and(min-width :480px){
+    body{
+        background-color: cadetblue;
+    }
+}
 a {
     text-decoration: none;
 }
